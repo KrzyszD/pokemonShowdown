@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+Game_Profiles/
+outputs/
+ProcessedGames/
+TBAnalyzed/
+showdownsimulator/

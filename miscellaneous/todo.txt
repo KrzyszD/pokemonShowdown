@@ -1,0 +1,5 @@
+Pokemon showdown
+
+Comment at the top of files explaining what they do
+Place the files into folders
+Git Ignore
