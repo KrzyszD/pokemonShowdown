@@ -5,4 +5,5 @@ Game_Profiles/
 outputs/
 ProcessedGames/
 TBAnalyzed/
-showdownsimulator/
+battle-history.txt
+ms.pkl
