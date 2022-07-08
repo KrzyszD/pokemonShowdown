@@ -120,7 +120,7 @@ class NeuralNetTeams(torch.nn.Module):
 
     def load_model(self, path):
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        modelDict = torch.load(path)
+        modelDict = torch.load(path, map_location=device)
         self.load_state_dict(modelDict)
     
     
